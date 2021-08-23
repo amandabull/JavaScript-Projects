@@ -3,3 +3,9 @@ function My_First_Function() { //Defining a function and naming it
     var result = str.fontcolor("green"); //Using the fontcolo methon on str variable
     document.getElementById("Green_Text").innerHTML = result; //Putting the value of result into HTML element with "Green_Text" id
 }
+
+function myFunction() {
+    var sentence = "I am learning";
+    sentence+= " a lot from this book!";
+    document.getElementById("Concatenate").innerHTML = sentence;
+}
