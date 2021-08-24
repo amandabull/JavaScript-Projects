@@ -64,13 +64,13 @@ for (let i = 0; i < 10; i++) {
     if (i===3) {break; }
     text += "The number is " + i + "<br>";
 }
-document.getElementById("text").innerHTML = text;
+document.getElementById("text2").innerHTML = text;
 }
 
 function for_continue() { //using continue will continue the loop until completion
 for (let j = 0; j < 10; j++) {
     if (j===3) {continue; }
-    text2 += "The number is " + j + "<br>";
+    text3 += "The number is " + j + "<br>";
 }
-document.getElementById("text2").innerHTML = text2;
+document.getElementById("text4").innerHTML = text3;
 }
