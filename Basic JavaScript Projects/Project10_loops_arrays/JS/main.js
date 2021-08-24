@@ -59,6 +59,7 @@ let car = { //creating an object car with properties
 };
 document.getElementById("Car_Object").innerHTML = car.description();
 
+var text = " "
 function for_break() { //using break will stop the for loop at i === 3
 for (let i = 0; i < 10; i++) {
     if (i===3) {break; }
@@ -67,6 +68,7 @@ for (let i = 0; i < 10; i++) {
 document.getElementById("text2").innerHTML = text;
 }
 
+var text3 = " "
 function for_continue() { //using continue will continue the loop until completion
 for (let j = 0; j < 10; j++) {
     if (j===3) {continue; }
