@@ -14,7 +14,7 @@ This project is a menu used to order pizza with a various selection of toppings.
 
 **Tic-Tac-Toe Game**
 
-The classic game of tic-tac-toe. The user plays agains the computer, taking turns on who goes first. There are sound effects added for entertainment.
+The classic game of tic-tac-toe. The user plays against the computer, taking turns on who goes first. There are sound effects added for entertainment.
 
 **Calculator**
 
